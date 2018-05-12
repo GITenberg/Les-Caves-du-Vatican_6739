@@ -1,5 +1,8 @@
 _repo: Les-Caves-du-Vatican_6739
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gide, André
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2184
     wikipedia: http://en.wikipedia.org/wiki/Andr%C3%A9_Gide
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6739#Les-Caves-du-Vatican
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
